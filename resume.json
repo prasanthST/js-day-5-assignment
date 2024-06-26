@@ -1,0 +1,34 @@
+{
+    "name": "John Doe",
+    "title": "Front-End Developer",
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "(123) 456-7890",
+      "website": "johndoe.dev"
+    },
+    "summary": "Passionate front-end developer with experience in building responsive web applications.",
+    "experience": [
+      {
+        "position": "Web Developer",
+        "company": "ABC Tech",
+        "duration": "2019 - Present",
+        "description": "Developed and maintained client-side code for various projects."
+      },
+      {
+        "position": "Intern",
+        "company": "XYZ Agency",
+        "duration": "Summer 2018",
+        "description": "Assisted in creating user interfaces and optimizing website performance."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "University of Example",
+        "graduationYear": 2019
+      }
+    ],
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Git"],
+    "languages": ["English", "Spanish"]
+  }
+  
